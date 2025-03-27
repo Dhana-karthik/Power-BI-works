@@ -1,6 +1,6 @@
 # Sample projects :
 
-### Note: first 20 projects I have planned to work for free, If anyone wants to give data analysis, cleaning, data entry sort of jobs. you can contact me with below hurry! this is till april 15th, 2025 only
+### Note: first few projects I have planned to work for free, If anyone wants to give data analysis, data cleaning, data entry sort of freelancing projects. you can contact me with below, hurry! this is till april 15th, 2025 only
 
  Hello people if you are seeing this then you are in the right place. This repository contains 3 POWER BI projects made by be. The folder contains the necessary datasets, pdf files Make use of these projects to start practicing visualizations.
   
